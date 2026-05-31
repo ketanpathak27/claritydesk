@@ -1,0 +1,19 @@
+{
+  "name": "ClarityDesk",
+  "short_name": "ClarityDesk",
+  "description": "Turn messy notes into organized action items, plans, summaries, and exports.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8fbfd",
+  "theme_color": "#0f766e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/claritydesk-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
